@@ -2,7 +2,7 @@ package com.librarymanagementsystem;
 
 import java.util.Scanner;
 
-public class LoginMain {
+public class Login {
 
     public static void main(String[] args) {
         String Username = "user";
