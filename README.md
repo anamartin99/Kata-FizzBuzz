@@ -1,0 +1,3 @@
+KATA FIZZBUZZ
+
+This project implements the famous kata game called FizzBuzz by making it print a line of numbers between 1 and 100. If it was divisible by the number 3 you had to return the word "Fizz", if it was divisible by 5 you had to return the word "Buzz" and if the divisible was between the numbers 3 and 5 you had to return the word "FizzBuzz", and if it was not divisible by any of the above you had to return the normal number.
